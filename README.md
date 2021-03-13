@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Beginning ReactJs :pencil2:
+![NodeJs](https://img.shields.io/badge/NodeJs-14.15.0-important.svg)
+![React](https://img.shields.io/badge/React-17.0.1-important.svg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🔍 Overview
+Dapp 웹 애플리케이션 공부 및 개발 과정에서 프런트엔드를 구현하고자 시작했습니다.
+전반전인 흐름이나 틀을 익히고자 공부했습니다.
 
-## Available Scripts
+<br />
 
-In the project directory, you can run:
+#### 사용기술
+- HTML5 / CSS3
+- JavaScript(ES6+)
+- React
+- Node.js
 
-### `npm start`
+<br />
+<hr />
+<br />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🌿 후기
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**프론트엔드 개발자도 백엔드 로직을 충분히 이해해야 한다** 판단하였습니다.<br />
+Node.js와 express, mongoDB를 사용해 서버와 데이터베이스를 구성하고 코드를 구현하면서 오랜 시간이 걸렸지만, <br />
+프론트엔드 쪽에서 요청하고 받아오는 데이터가 어떤 것인지 이해하고 이것을 어떻게 활용하여 클라이언트 상에서 화면에 나타낼 수 있는지에 대해 더 깊은 이해를 할 수 있었던 경험이었습니다.<br />
+이번 프로젝트를 통해 전반적인 e-commerce 플랫폼의 비즈니스 로직과 RESTful-api에 대한 이해,<br />
+토큰을 이용한 회원가입 / 로그인 / 로그아웃 구현, MongoDB를 통한 NoSQL에 대한 이해, css 전처리기SCSS 를 이용하고 BEM을 따른 스타일링, <br />
+GSAP 을 이용한 애니메이션 구현, Redux 를 이용한 상태관리에 관한 공부를 할 수 있었습니다.
